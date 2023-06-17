@@ -1,1 +1,1 @@
-# student-db
+# Student Database
